@@ -1,0 +1,29 @@
+header {
+    color:#ffffff;
+    background-color: #4173ff;
+}
+body {
+    color:#ffffff;
+    background-color: #473aff;
+}
+nav button {
+    background-color: #4173ff;
+    border: none;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;    
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: rgb(192, 192, 192);
+}
