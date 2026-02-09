@@ -21,11 +21,11 @@ nav button {
 }
 
 a:link {
-    color: white;
+    color: rgb(168, 168, 168);
 }
 
 a:visited {
-    color: rgb(192, 192, 192);
+    color: #747474;
 }
 .pictures {
     display: flex;
