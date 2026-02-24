@@ -47,3 +47,6 @@ a:visited {
     text-align: left;
     border-radius: 10px;
 }
+.invis {
+    color: rgb(141, 141, 141);
+}
