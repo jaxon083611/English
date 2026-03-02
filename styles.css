@@ -39,6 +39,12 @@ a:visited {
     object-fit: cover;
     border-radius: 15px;
 }
+.thing {
+    text-align: left;
+}
+.header {
+    text-align: center;
+}
 .container {
     background-color: rgb(141, 141, 141);
     padding: 20px;
